@@ -1,4 +1,4 @@
-# IAMoviles Act 12 navegación 3 pantallas  tu Negocio Flutter
+# IAMoviles Act 13 navegación entre 6 pantallas
 
 A new Flutter project.
 
@@ -7,6 +7,10 @@ A new Flutter project.
 <img width="331" height="584" alt="image" src="https://github.com/user-attachments/assets/db7c8b13-4bcf-4841-bb59-35d2a47a05ff" />
 <img width="332" height="574" alt="image" src="https://github.com/user-attachments/assets/d0afc267-2258-4457-98ec-61cf17c0d654" />
 <img width="388" height="634" alt="image" src="https://github.com/user-attachments/assets/f6e8fbe4-471e-40f3-a613-33f1845156d3" />
+
+<img width="339" height="566" alt="image" src="https://github.com/user-attachments/assets/69d77684-777b-4c83-84d2-2d0c2d4248ea" />
+<img width="341" height="570" alt="image" src="https://github.com/user-attachments/assets/2fd438dc-500d-46b4-b176-0a80ed33c886" />
+<img width="380" height="638" alt="image" src="https://github.com/user-attachments/assets/aa33caa6-b4f9-474d-b099-7b25722b1939" />
 
 ## Script
 Lenguaje dart, flutter. Nivel principiante. 
